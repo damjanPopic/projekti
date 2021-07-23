@@ -1,1 +1,1 @@
-# projekti
+Vegan Store Website (HTML + CSS)
